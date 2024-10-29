@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python_warmup"
+version = "0.1.0"
+description = "PS2, 1.1. Exercise: Python Warmup"
+authors = [{ name = "Benjamin Brückner", email = "blb46@cam.ac.uk" }]
+license = { text = "MIT" }
+keywords = ["python"]
+
+dependencies = [
+	"numpy==2.1.2",
+	"termplotlib==0.3.9",
+	"uniplot==0.14.1",
+	"sympy==1.13.2",
+	"rich==13.7.1"
+]

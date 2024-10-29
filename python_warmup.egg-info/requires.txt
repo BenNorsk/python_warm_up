@@ -1,0 +1,5 @@
+numpy==2.1.2
+termplotlib==0.3.9
+uniplot==0.14.1
+sympy==1.13.2
+rich==13.7.1

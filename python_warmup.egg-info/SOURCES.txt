@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+warm_up.py
+python_warmup.egg-info/PKG-INFO
+python_warmup.egg-info/SOURCES.txt
+python_warmup.egg-info/dependency_links.txt
+python_warmup.egg-info/requires.txt
+python_warmup.egg-info/top_level.txt

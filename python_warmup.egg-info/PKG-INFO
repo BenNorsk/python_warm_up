@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: python_warmup
+Version: 0.1.0
+Summary: PS2, 1.1. Exercise: Python Warmup
+Author-email: Benjamin Brückner <blb46@cam.ac.uk>
+License: MIT
+Keywords: python
+Requires-Dist: numpy==2.1.2
+Requires-Dist: termplotlib==0.3.9
+Requires-Dist: uniplot==0.14.1
+Requires-Dist: sympy==1.13.2
+Requires-Dist: rich==13.7.1
